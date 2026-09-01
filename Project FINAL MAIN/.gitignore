@@ -1,0 +1,26 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled Java files
+out/
+*.class
+
+# Build folders
+target/
+bin/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local/personal configuration
+.env
+
+# Uploaded/test resume files
+uploads/
+resumes/

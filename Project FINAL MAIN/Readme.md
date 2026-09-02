@@ -317,7 +317,7 @@ Possible future enhancements:
 
 ## 👨‍💻 Author
 
-**Saumya**
+**Amin Saumya**
 
 **Applicant Tracking System (ATS)**
 
